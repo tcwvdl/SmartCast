@@ -1,0 +1,11 @@
+## Interface: 11508
+## Title: SmartCast
+## Notes: Downranking and spell buttons with tooltips, ranks, and keybinds
+## Author: Tim
+## Version: 1.0
+## SavedVariables: SmartCast_Saved
+
+SmartCast.lua
+SmartCastOptions.lua
+Bindings.xml
+SmartCastBindings.lua

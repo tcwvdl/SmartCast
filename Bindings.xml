@@ -1,0 +1,9 @@
+<Bindings>
+    <BindingHeader name="SmartCast"/>
+    <Binding name="SMARTCAST_Healing_Wave" header="SmartCast" category="SmartCast">
+        /click SmartCast_Healing_Wave
+    </Binding>
+    <Binding name="SMARTCAST_Lightning_Bolt" header="SmartCast" category="SmartCast">
+        /click SmartCast_Lightning_Bolt
+    </Binding>
+</Bindings>
