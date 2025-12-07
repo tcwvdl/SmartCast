@@ -1,9 +1,22 @@
 <Bindings>
-    <BindingHeader name="SmartCast"/>
-    <Binding name="SMARTCAST_Healing_Wave" header="SmartCast" category="SmartCast">
-        /click SmartCast_Healing_Wave
-    </Binding>
-    <Binding name="SMARTCAST_Lightning_Bolt" header="SmartCast" category="SmartCast">
-        /click SmartCast_Lightning_Bolt
-    </Binding>
+    <Binding name="SMARTCAST_SLOT1" category="SMARTCAST" />
+    <Binding name="SMARTCAST_SLOT2" category="SMARTCAST" />
+    <Binding name="SMARTCAST_SLOT3" category="SMARTCAST" />
+    <Binding name="SMARTCAST_SLOT4" category="SMARTCAST" />
+    <Binding name="SMARTCAST_SLOT5" category="SMARTCAST" />
+    <Binding name="SMARTCAST_SLOT6" category="SMARTCAST" />
+    <Binding name="SMARTCAST_SLOT7" category="SMARTCAST" />
+    <Binding name="SMARTCAST_SLOT8" category="SMARTCAST" />
+    <Binding name="SMARTCAST_SLOT9" category="SMARTCAST" />
+    <Binding name="SMARTCAST_SLOT10" category="SMARTCAST" />
+    <Binding name="SMARTCAST_SLOT11" category="SMARTCAST" />
+    <Binding name="SMARTCAST_SLOT12" category="SMARTCAST" />
+    <Binding name="SMARTCAST_SLOT13" category="SMARTCAST" />
+    <Binding name="SMARTCAST_SLOT14" category="SMARTCAST" />
+    <Binding name="SMARTCAST_SLOT15" category="SMARTCAST" />
+    <Binding name="SMARTCAST_SLOT16" category="SMARTCAST" />
+    <Binding name="SMARTCAST_SLOT17" category="SMARTCAST" />
+    <Binding name="SMARTCAST_SLOT18" category="SMARTCAST" />
+    <Binding name="SMARTCAST_SLOT19" category="SMARTCAST" />
+    <Binding name="SMARTCAST_SLOT20" category="SMARTCAST" />
 </Bindings>
